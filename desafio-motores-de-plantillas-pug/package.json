@@ -1,0 +1,21 @@
+{
+  "name": "desafio-motores-de-plantillas-pug",
+  "version": "1.0.0",
+  "description": "Desafio coderhouse backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Martin JL",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

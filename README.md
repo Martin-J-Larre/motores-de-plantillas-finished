@@ -5,6 +5,6 @@ ___
 No es mi favorito pero lo de las variables para los estilos me pareció super útil.
 ## HandleBars:
 * Me pareció un poco más complicado en la sintaxis en la parte del .engine... OPero dentro de todo se parece bastante a HTML así que creo que lo tomaría como una segunda opción.
-## HandleBars:
+## EJS:
 * Me pareció lo más fácil, cómodo en la sintaxis y también con respecto a los módulos, definitivamente mi opción favorita.
 
